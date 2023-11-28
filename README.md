@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ifwhy
+- 👀 I’m interested in Mathematics, Statistics, and Data Science
+- 🌱 I’m currently learning Python and C++
+- 💞️ I’m looking to collaborate on learning progamming and developing a project
+- 📫 You can reach me via my social media

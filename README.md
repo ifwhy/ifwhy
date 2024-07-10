@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 I’m currently studying at Universitas Sebelas Maret<br>👯 I’m looking to collaborate on Web Development's Project<br>🌱 I’m currently learning Data Science and Web Development<br>💬 Contact me via my social media underneath<br>⚡ Indeed! After hardship comes ease
+🔭 I’m a student at Universitas Sebelas Maret<br>👯 I’m looking to collaborate on Web Development's Project<br>🌱 I’m currently learning Data Science and Web Development<br>💬 Contact me via my social media underneath<br>⚡ Indeed! After hardship comes ease
 
 
 ## 🌐 Socials
